@@ -1,0 +1,22 @@
+CrowdBench
+Copyright 2026 Hooch Labs LLC
+
+CrowdBench is a service of Hooch Labs LLC (https://crowdbench.ai).
+
+This NOTICE covers the SOFTWARE in this distribution, which is licensed under the
+Apache License, Version 2.0 (see LICENSE).
+
+The data CrowdBench publishes is licensed separately and is NOT covered by the
+Apache License:
+
+  * The raw contribution dataset export is licensed CC BY 4.0
+    (https://creativecommons.org/licenses/by/4.0/).
+  * The cell-level aggregate — the medians, distributions and other compiled
+    figures the site publishes — is not licensed to the public and is available
+    only under a separate agreement.
+
+See LICENSING.md for the full boundary, and https://crowdbench.ai/terms for the
+terms of access.
+
+"CrowdBench" and "Hooch Labs" are trademarks of Hooch Labs LLC. Apache-2.0
+section 6 grants no rights in them.
